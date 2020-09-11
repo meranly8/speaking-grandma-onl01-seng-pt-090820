@@ -1,4 +1,4 @@
-requires '../grandma.rb'
+requires '../grandma_spec_rb'
 # Write a speak_to_grandma method.
 def speak_to_grandma(phrase)
   if !(phrase == phrase.uppercase)
