@@ -1,4 +1,4 @@
-requires '../grandma_spec_rb'
+require_relative '../grandma_spec.rb'
 
 
 # Write a speak_to_grandma method.
